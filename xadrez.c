@@ -29,5 +29,18 @@ int main()
     }
     printf("\n");
 
+    // Imprime o movimento do cavalo: 2 pra baixo e 1 pra esquerda
+    int cavaloX = 1;
+    int cavaloZ = 1;
+    for (cavaloX = 1; cavaloX <= 1; cavaloX++)
+    {
+        for (cavaloZ = 1; cavaloZ <= 2; cavaloZ++)
+        {
+            printf("Cavalo: Baixo\n");
+        }
+        printf("Cavalo: Esquerda\n");
+    }
+    printf("\n");
+
     return 0;
 }
