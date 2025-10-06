@@ -30,7 +30,7 @@ int main()
     loopRecursivo(rainha, movRainha);
     printf("\n");
 
-    // Imprime o movimento do cavalo: 2 pra baixo e 1 pra esquerda
+    // Imprime o movimento do cavalo: 2 pra cima e 1 pra direita
     int cavaloX = 1;
     int cavaloZ = 1;
     for (cavaloX = 1; cavaloX <= 1; cavaloX++)
